@@ -1,0 +1,15 @@
+{
+  "name": "go-course-server",
+  "version": "1.0.0",
+  "description": "a web server for golang course",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
